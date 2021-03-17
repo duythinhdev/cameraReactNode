@@ -1,0 +1,23 @@
+{
+  "name": "jsmpeg",
+  "version": "1.0.0",
+  "description": "An MPEG1 Video Decoder in JavaScrip",
+  "main": "jsmpg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgaticaq/jsmpeg.git"
+  },
+  "keywords": [
+    "mpeg",
+    "decoder"
+  ],
+  "author": "Leonardo Gatica <lgatica@protonmail.com> (https://about.me/lgatica)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lgaticaq/jsmpeg/issues"
+  },
+  "homepage": "https://github.com/lgaticaq/jsmpeg#readme"
+}
